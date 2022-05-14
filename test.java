@@ -1,7 +1,6 @@
 public class test {
-    public static String addExclamation(String str) {
-        String returnStr = str + "!";
-        return returnStr; 
-    }
-        
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+        System.out.println("Hello World again!");
+    }     
 }
