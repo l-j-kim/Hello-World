@@ -1,6 +1,5 @@
-public class test {
+public class helloWorld {
     public static void main(String[] args) {
-        //another test
         System.out.println("Hello World!");
     }     
 }
